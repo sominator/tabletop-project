@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\public",
+    "\\client\\src",
+    "\\client\\src\\components",
+    "\\client\\src\\game",
+    "\\client\\src\\game\\scenes"
+  ],
+  "SelectedNode": "\\client\\node_modules",
+  "PreviewInSolutionExplorer": false
+}
